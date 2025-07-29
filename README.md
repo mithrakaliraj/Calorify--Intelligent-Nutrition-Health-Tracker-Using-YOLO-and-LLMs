@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Calorify---Intelligent-Nutrition-Health-Tracker-Using-YOLO-and-LLMs
 
 Calorify is an AI-powered web application that detects food items using YOLO, estimates calories, summarizes uploaded medical reports, and provides personalized advice via a smart chatbot.
@@ -53,3 +54,7 @@ python -m venv env
 source env/bin/activate  # or env\Scripts\activate on Windows
 pip install -r requirements.txt
 python app.py
+=======
+# Calorify--Intelligent-Nutrition-Health-Tracker-Using-YOLO-and-LLMs
+An AI-powered health companion that uses YOLOv8 for food recognition and calorie estimation, integrates an OpenAI chatbot for user interaction, and employs Gemini API for medical report summarization. Built with Flask, HTML/CSS/JS, and OpenCV, featuring an intuitive UI and real-time insights.
+>>>>>>> 0be952fe0caede07522152eb35b6cdca1d91919b
